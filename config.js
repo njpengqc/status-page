@@ -19,15 +19,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://dora-channel.ml'
+      url: 'https://dora-channel.top'
     },
     {
       text: '视频站',
-      url: 'https://video.dora-channel.ml'
+      url: 'https://video.dora-channel.top'
     },
     {
       text: '网盘',
-      url: 'https://pan.dora-channel.ml'
+      url: 'https://pan.dora-channel.top'
     },
   ],
 };
