@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'nanjingpqc旗下站点监测',
+  SiteName: 'nanjingpqc的系统状态',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -27,15 +27,7 @@ window.Config = {
     },
     {
       text: '网盘',
-      url: 'https://alist.dora-channel.ml'
-    },
-    {
-      text: '哆啦盘',
-      url: 'https://pan.nanjingpqc.repl.co/'
-    },
-     {
-      text: 'Minecraft服务器状态检测网站',
-      url: 'https://mc.dora-channel.ml'
+      url: 'https://pan.dora-channel.ml'
     },
   ],
 };
