@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'nanjingpqc的系统状态',
+  SiteName: 'nanjingpqc的系统状态页面',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
